@@ -1,0 +1,33 @@
+[submodule "Candy-Crush-Clone"]
+	path = Candy-Crush-Clone
+	url = git@github.com:korge-showcases/Candy-Crush-Clone.git
+[submodule "2048"]
+	path = 2048
+	url = git@github.com:korge-showcases/2048.git
+[submodule "paf"]
+	path = paf
+	url = git@github.com:korge-showcases/paf.git
+[submodule "korge-chess"]
+	path = korge-chess
+	url = git@github.com:korge-showcases/korge-chess.git
+[submodule "XenoTacticKProject"]
+	path = XenoTacticKProject
+	url = git@github.com:korge-showcases/XenoTacticKProject.git
+[submodule "pacoman"]
+	path = pacoman
+	url = git@github.com:korge-showcases/pacoman.git
+[submodule "parasite-game"]
+	path = parasite-game
+	url = git@github.com:korge-showcases/parasite-game.git
+[submodule "HitKlack"]
+	path = HitKlack
+	url = git@github.com:korge-showcases/HitKlack.git
+[submodule "MagicMaze-Island"]
+	path = MagicMaze-Island
+	url = git@github.com:korge-showcases/MagicMaze-Island.git
+[submodule "dungeon"]
+	path = dungeon
+	url = git@github.com:korge-showcases/dungeon.git
+[submodule "steroids"]
+	path = steroids
+	url = git@github.com:korge-showcases/steroids.git
